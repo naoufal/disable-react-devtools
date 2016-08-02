@@ -1,0 +1,30 @@
+{
+  "name": "disable-react-devtools",
+  "version": "1.0.0",
+  "description": "Disables the React Developer Tools from your application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naoufal/disable-react-devtools.git"
+  },
+  "keywords": [
+    "disable",
+    "react",
+    "devtools",
+    "developer",
+    "tools",
+    "production"
+  ],
+  "author": "Naoufal Kadhom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naoufal/disable-react-devtools/issues"
+  },
+  "homepage": "https://github.com/naoufal/disable-react-devtools#readme",
+  "peerDependencies": {
+    "react": "^15.0 || 0.14.x"
+  }
+}
