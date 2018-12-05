@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/naoufal/disable-react-devtools#readme",
   "peerDependencies": {
-    "react": "^15.0 || 0.14.x"
+    "react": "^16.0.x || ^15.0.x || 0.14.x"
   }
 }
